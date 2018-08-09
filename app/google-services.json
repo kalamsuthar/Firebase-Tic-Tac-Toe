@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499499023408",
+    "firebase_url": "https://fir-tictactoe-de384.firebaseio.com",
+    "project_id": "fir-tictactoe-de384",
+    "storage_bucket": "fir-tictactoe-de384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499499023408:android:196de69fac642b95",
+        "android_client_info": {
+          "package_name": "com.india.kalam.firebasetictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499499023408-scmks2cf5tcu4e2r683jm0moe2jpqfre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.india.kalam.firebasetictactoe",
+            "certificate_hash": "7a545cb7040c74673ef1de1192ad0b417650d103"
+          }
+        },
+        {
+          "client_id": "499499023408-c39jaloa7l480rk1d8t11ek4n1f41vcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTOzAxCoz3utC_XjLpdp6NumWvOhR_lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499499023408-c39jaloa7l480rk1d8t11ek4n1f41vcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
